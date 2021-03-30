@@ -48,7 +48,7 @@ class Translation(object):
     ABOUT_ME = """<b>Meh : \n An Telegram File Renamer Bot Which Can Rename A Telegram Files. \n You Can Set Permanent Thumbnail For The File So You Don't Have To Send Custom Thumbs All The Time.\n \n i can also convert files into videos \n Feedback @MrNobody_Here If You Found Meh Useful</b>"""
     HELP_USER = """<b>Ohh You Want Help?? 😅</b>
     
-    <b>Follow These Steps...</b>
+<b>Follow These Steps...</b>
 
 <b>💢 Send me any Telegram File.</b>
 
@@ -60,7 +60,7 @@ class Translation(object):
 
 <b>💢 Send Me Any Zee5 Url And I'll Upload It Into Telegram </b>
 
-<b>Made With Love By: @Nobodys_Bots </b> 
+<b> Made With Love By: @Nobodys_Bots </b> 
 
 """
 
