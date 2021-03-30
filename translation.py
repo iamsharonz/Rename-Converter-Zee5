@@ -48,31 +48,30 @@ class Translation(object):
     ABOUT_ME = """<b>Meh : \n An Telegram File Renamer Bot Which Can Rename A Telegram Files. \n You Can Set Permanent Thumbnail For The File So You Don't Have To Send Custom Thumbs All The Time.\n \n i can also convert files into videos \n Feedback @MrNobody_Here If You Found Meh Useful</b>"""
     HELP_USER = """<b>Ohh You Want Help?? 😅</b>
 
-    
+<b>💢 Send me any Telegram File.</b>
 
-<b>1.💢 Send me any Telegram File. </b>
+<b>💢 Reply to that message with /rename New file name.extension </b>
 
-<b>2.💢 Reply to that message with /rename New file name.extnsion </b>
+<b>💢 Send A Photo to make it as permanent Thumbnail </b>
 
-<b>3.💢 Send A Photo to make it as permanent Thumbnail </b>
+<b>💢 I Can Also Convert Files Into Video through /c2v Command </b>
 
-<b>4.💢 I Can Also Convert Files Into Video through /c2v Command    </b>
+<b>💢 Send Me Any Zee5 Url And I'll Upload It Into Telegram </b>
 
-<b>5.💢 Send Me Any Zee5 Url And I'll Upload It Into Telegram  </b>
+<b>Made With Love By: @Nobodys_Bots </b> """
+
+
+
 
  
 
-<b> Made With Love By: @Nobodys_Bots</b>
-    
-
-
-
 
     
 
 
 
 
+    
 
 
 
@@ -82,5 +81,9 @@ class Translation(object):
 
 
 
-"""
+
+
+
+
+
 
