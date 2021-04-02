@@ -11,7 +11,7 @@ An Multi purpose Bot Which Can :-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrNobody503/Rename-Converter-Zee5)
 
 If you Find Any Bugs Or Want to Give Your Feedbacks Then Kindly Contact Us Through [Telegram ](https://telegram.dog/MrNobody_Here) 
-Also Support Our Channel [Mai_bOTs](https://telegram.dog/Nobodys_Bots) 
+Also Support Our Channel [Nobodys_Bots](https://telegram.dog/Nobodys_Bots) 
 
 ## Credits, and Thanks to Beloved Developers ;
 
