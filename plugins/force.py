@@ -59,7 +59,7 @@ async def text(bot, update):
                     InlineKeyboardButton('Feedback', url='https://t.me/MrNobody_Here')
                 ],
                 [
-                    InlineKeyboardButton('Other Bots', url='https://t.me/Nobodys_Bots'),
+                    InlineKeyboardButton('♐ SHARE ♐', url='http://t.me/share/url?url=Hey%20There%E2%9D%A4%EF%B8%8F%2C%0A%20%0A%20I%20Found%20A%20Really%20Awesome%20Bot%20%20For%20Renaming%20and%20Converting%20any%20telegram%20files%20with%20Permanent%20Thumbnail%20support.%20It%20can%20also%20upload%20from%20Zee5%20link.%20Hope%20This%20Bot%20Helps%20You%20Too.%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%E2%9D%A4%EF%B8%8F%0A%20%0A%20Bot%20Link%20%3A-%20%40SpeedyRenamer_Bot'),
                    
                 ]
             ]
